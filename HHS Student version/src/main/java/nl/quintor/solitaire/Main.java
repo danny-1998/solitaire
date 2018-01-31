@@ -9,7 +9,7 @@ import nl.quintor.solitaire.ui.UI;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
-
+import nl.quintor.solitaire.ui.GameUI;
 
 /**
  * Application entry point
@@ -33,7 +33,7 @@ public class Main {
      */
     public static void main(String... args){
         // initialize the GameState, UI and all possible moves
-        UI ui = null;
+        UI ui = new GameUI();
         GameState gameState = new GameState();
         List<String> keys = Arrays.asList("Q");
         List<Move> moves = Arrays.asList(new Quit());

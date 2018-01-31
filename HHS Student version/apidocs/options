@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-private
+-sourcepath
+'C:/Users/Rick/Documents/GitHub/solitaire/HHS Student version/src/main/java;C:/Users/Rick/Documents/GitHub/solitaire/HHS Student version/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Rick/Documents/GitHub/solitaire/HHS Student version/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HHS Eventweek SE: Cardgame 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/Rick/Documents/GitHub/solitaire/HHS Student version/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'HHS Eventweek SE: Cardgame 1.0-SNAPSHOT API'
